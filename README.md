@@ -1,3 +1,3 @@
 # Journal App - curso  
 
-## Una mini app usando redux y login con firebase. 
+## Una mini app usando redux y un login con firebase. 
